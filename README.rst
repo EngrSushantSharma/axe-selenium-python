@@ -5,28 +5,17 @@ axe-selenium-python-dev was forked from https://github.com/mozilla-services/axe-
 on date 29/10/2020 all credits to them, there was no official pypi distribution available
 which supports axe-core 3.3.2 so took the opportunity to create this to support others like us 
 
-**This version of axe-selenium-python-dev supports all changes in repo 
-https://github.com/mozilla-services/axe-selenium-python before date 29/10/2020 **
+This version of axe-selenium-python-dev supports all changes in repo 
+https://github.com/mozilla-services/axe-selenium-python before date 29/10/2020
 
 **This version of axe-selenium-python-dev is using axe-core@3.3.2.**
 
 .. image:: https://img.shields.io/badge/license-MPL%202.0-blue.svg
    :target: https://github.com/mozilla-services/axe-selenium-python/blob/master/LICENSE.txt
    :alt: License
-.. image:: https://img.shields.io/pypi/v/axe-selenium-python.svg
+.. image:: https://img.shields.io/pypi/v/axe-selenium-python-dev.svg
    :target: https://pypi.org/project/axe-selenium-python-dev/
    :alt: PyPI
-.. image:: https://img.shields.io/github/issues-raw/mozilla-services/axe-selenium-python.svg
-   :target: https://github.com/mozilla-services/axe-selenium-python/issues
-   :alt: Issues
-.. image:: https://api.dependabot.com/badges/status?host=github&repo=mozilla-services/axe-selenium-python
-   :target: https://dependabot.com
-   :alt: Dependabot
-.. image:: https://coveralls.io/repos/github/mozilla-services/axe-selenium-python/badge.svg?branch=master
-   :target: https://coveralls.io/github/mozilla-services/axe-selenium-python?branch=master
-   :alt: Coveralls
-
-
 
 Requirements
 ------------
