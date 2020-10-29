@@ -1,6 +1,6 @@
 {
   "name": "axe-selenium-python-dev",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "Integrate axe-core with python",
   "main": "index.js",
   "scripts": {
