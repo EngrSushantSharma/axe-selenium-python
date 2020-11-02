@@ -74,6 +74,11 @@ Resources
 CHANGELOG
 ^^^^^^^^^^^^^^
 
+version 1.2.0
+*************
+
+- Updated to install node modules
+
 version 1.1.1
 *************
 
