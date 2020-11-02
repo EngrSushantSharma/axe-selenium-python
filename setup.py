@@ -11,7 +11,7 @@ with open("./README.rst") as f:
     readme = f.read()
 
 setup(
-    version="1.3.0",
+    version="2.0.0",
     name="axe-selenium-python-dev",
     use_scm_version=False,
     setup_requires=["setuptools_scm"],
@@ -23,9 +23,9 @@ setup(
     author_email="engrSushantSharma@gmail.com",
     packages=find_packages(),
     package_data={
-        "axe_selenium_python": [
-            "axe_selenium_python/node_modules/axe-core/axe.min.js",
-            "axe_selenium_python/tests/test_page.html",
+        "axe_selenium_python_dev": [
+            "node_modules/axe-core/axe.min.js",
+            "tests/test_page.html",
         ]
     },
     include_package_data=True,
