@@ -74,6 +74,17 @@ Resources
 CHANGELOG
 ^^^^^^^^^^^^^^
 
+
+version 2.2.0
+*************
+
+- Axe-core node modules 3.3.2 path updated
+
+version 2.1.0
+*************
+
+- Axe-core node modules 3.3.2 path updated
+
 version 2.0.0
 *************
 
