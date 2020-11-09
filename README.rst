@@ -74,6 +74,11 @@ Resources
 CHANGELOG
 ^^^^^^^^^^^^^^
 
+version 2.3.0
+*************
+
+- Axe-core node modules min file updated from 2.3.1 to 3.3.2 
+
 
 version 2.2.0
 *************

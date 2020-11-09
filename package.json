@@ -1,6 +1,6 @@
 {
   "name": "axe-selenium-python-dev",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "Integrate axe-core with python",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/EngrSushantSharma/axe-selenium-python#readme",
   "dependencies": {
-    "axe-core": ">=3.1.0"
+    "axe-core": "^3.3.2"
   }
 }
