@@ -74,6 +74,12 @@ Resources
 CHANGELOG
 ^^^^^^^^^^^^^^
 
+version 2.4.0
+*************
+
+- Remove unused build modules
+
+
 version 2.3.0
 *************
 

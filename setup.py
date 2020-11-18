@@ -11,7 +11,7 @@ with open("./README.rst") as f:
     readme = f.read()
 
 setup(
-    version="2.3.0",
+    version="2.4.0",
     name="axe-selenium-python-dev",
     use_scm_version=False,
     setup_requires=["setuptools_scm"],
